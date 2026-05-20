@@ -1,13 +1,13 @@
-# 🚀 Internship Work Log: E-Commerce Catalog API
+#  Internship Work Log: E-Commerce Catalog API
 
 Welcome to my internship work log repository. This repository serves as a centralized documentation hub to track my daily progress, structural decisions, and technical milestones as I design and build a scalable E-Commerce Catalog API.
 
-## 🎯 Purpose of Documentation
+##  Purpose of Documentation
 The primary purpose of this repository is to maintain a transparent, highly detailed record of my work for **internship technical reviews**. It acts as visible proof of my engineering consistency, problem-solving workflow, architectural choices, and technical growth throughout the internship period.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Backend
 * **Spring Boot 3.2.x** – Core application framework
@@ -29,7 +29,7 @@ The primary purpose of this repository is to maintain a transparent, highly deta
 
 ---
 
-## 📂 Repository Layout
+##  Repository Layout
 ```text
 Work-Log/
 ├── README.md               # Main repository dashboard (This file)
