@@ -40,3 +40,8 @@ Work-Log/
         ├── day-01.md       # Requirements Analysis & System Planning
         ├── day-02.md       # Database Schema & API Design
         └── day-03.md       # (In Progress)
+```
+
+##  GitHub Repository
+* https://github.com/swam-6/e-commerce-product-api.git
+
