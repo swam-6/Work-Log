@@ -36,6 +36,7 @@ Work-Log/
 ├── docs/                   # System designs, schemas, and API specs
 └── logs/                   # Daily progress and tracking journals
     ├── template.md         # Blank markdown template for daily logs
-    └── week-01/
+    └── week1/
         ├── day-01.md       # Requirements Analysis & System Planning
-        └── day-02.md       # (Pending Update)
+        ├── day-02.md       # Database Schema & API Design
+        └── day-03.md       # (In Progress)
