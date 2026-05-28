@@ -1,4 +1,4 @@
-# 📅 Day 27: Category JPA, Controller & Swagger Security Integration
+# 📅 Day 8: Category JPA, Controller & Swagger Security Integration
 
 **Date:** 2026-05-27  
 **Phase:** Core Backend Development
