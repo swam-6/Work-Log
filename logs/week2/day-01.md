@@ -1,19 +1,19 @@
-# 📅 Day 6: Completed JWT Auth Module
+# Day 6: Completed JWT Auth Module
 
 **Date:** 2026-05-25  
 **Phase:** Core Backend Development
 
 ---
 
-## 🎯 Today's Goals
+## Today's Goals
 
 - [x] Implement JWT authentication module
 - [x] Integrate and test auth flows in Swagger UI
 
 ---
 
-## 💻 Work Status & Progress
->
+## Work Status & Progress
+
 > A concise, bulleted summary of what you built, designed, or resolved today.
 
 - **Architecture & Design:**
@@ -26,9 +26,9 @@
 
 ---
 
-## 🧠 What I Learned & Key Takeaways
+## What I Learned & Key Takeaways
 
-* **Swagger UI + JWT:**
+- **Swagger UI + JWT:**
   - Learned how to configure a `Bearer` security scheme to exercise login, refresh, and protected routes directly from Swagger UI.
 - **Auth Best Practice:**
   - Reinforced the importance of short-lived access tokens and secure handling of refresh tokens.

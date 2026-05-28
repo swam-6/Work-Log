@@ -1,11 +1,11 @@
-# 📅 Day 7: Started Category Module
+# Day 7: Started Category Module
 
 **Date:** 2026-05-26  
 **Phase:** Core Backend Development
 
 ---
 
-## 🎯 Today's Goals
+## Today's Goals
 
 - [x] Start work on the Category module
 - [x] Divide module endpoints
@@ -13,8 +13,8 @@
 
 ---
 
-## 💻 Work Status & Progress
->
+## Work Status & Progress
+
 > A concise, bulleted summary of what you built, designed, or resolved today.
 
 - **Architecture & Design:**
@@ -28,16 +28,16 @@
 
 ---
 
-## 🧠 What I Learned & Key Takeaways
+## What I Learned & Key Takeaways
 
-* **Domain Modeling:**
+- **Domain Modeling:**
   - Reinforced the importance of clear entity mappings and relationship annotations for `Category`.
 - **API Design:**
   - Breaking endpoints into focused groups (create/read/update/delete vs. listing/search) simplifies responsibilities and testing.
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 
 - Implement repository methods and service layer for `Category`.
 - Add controller endpoints and integration tests.

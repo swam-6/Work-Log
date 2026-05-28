@@ -1,11 +1,11 @@
-# 📅 Day 8: Category JPA, Controller & Swagger Security Integration
+# Day 8: Category JPA, Controller & Swagger Security Integration
 
 **Date:** 2026-05-27  
 **Phase:** Core Backend Development
 
 ---
 
-## 🎯 Today's Goals
+## Today's Goals
 
 - [x] Implement the JPA Repository for the `Category` entity
 - [x] Build and expose REST Controller endpoints for Category management
@@ -13,8 +13,8 @@
 
 ---
 
-## 💻 Work Status & Progress
->
+## Work Status & Progress
+
 > A concise, bulleted summary of what you built, designed, or resolved today.
 
 - **Architecture & Design:**
@@ -29,8 +29,8 @@
 
 ---
 
-## 🧠 What I Learned & Key Takeaways
->
+## What I Learned & Key Takeaways
+
 > Document technical concepts, architectural choices, or new tools mastered today.
 
 - **Spring Data JPA Capabilities:**
@@ -40,7 +40,7 @@
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 
 - Implement business logic validations in the Category service layer.
 - Add integration tests for Category controller endpoints.

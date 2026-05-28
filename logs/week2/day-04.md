@@ -1,11 +1,11 @@
-# 📅 Day 9: Category Service, DTO Implementation & End-to-End Testing
+# Day 9: Category Service, DTO Implementation & End-to-End Testing
 
 **Date:** 2026-05-28  
 **Phase:** Core Backend Development
 
 ---
 
-## 🎯 Today's Goals
+## Today's Goals
 
 - [x] Implement the Service layer for the `Category` module with full CRUD operations
 - [x] Create dedicated Data Transfer Objects (DTOs) for Category data transfer
@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 Work Status & Progress
+## Work Status & Progress
 
 > A concise, bulleted summary of what you built, designed, or resolved today.
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 What I Learned & Key Takeaways
+## What I Learned & Key Takeaways
 
 > Document technical concepts, architectural choices, or new tools mastered today.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📦 Module Milestone Status
+## Module Milestone Status
 
 > Summary of completed modules so far.
 
@@ -49,7 +49,7 @@
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 
 - Set up validation annotations (like `@NotBlank` or `@Size`) on the Category DTOs.
 - Draft the initial schema and models for the Product module.
