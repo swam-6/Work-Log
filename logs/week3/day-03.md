@@ -25,8 +25,6 @@
 - **Code / Configuration:**
   - **Cart Entity:** Created the `Cart` domain model containing user associations, a collection of cart items, and overall cart total and item count attributes.
   - **Cart Item Entity:** Coded the `CartItem` domain model to represent individual line items, linking each entry to a specific `Product` and capturing quantities and unit pricing.
-- **Blockers Overcome:**
-  - Configured cascade and orphan removal settings (`cascade = CascadeType.ALL, orphanRemoval = true`) on the bidirectional mapping to prevent orphan records in the database when removing items from the cart.
 
 ---
 
